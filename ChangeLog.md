@@ -1,6 +1,6 @@
 # Port1900 ChangeLog
 
-## v0.0.1
+## v0.1.0
 
 **Released: 2026-08-14**
 

@@ -1,6 +1,6 @@
 [project]
 name = "port1900"
-version = "0.0.1"
+version = "0.1.0"
 description = "An async-first, fully-typed client library for the Nex protocol."
 readme = "README.md"
 authors = [
