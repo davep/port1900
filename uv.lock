@@ -859,7 +859,7 @@ wheels = [
 
 [[package]]
 name = "port1900"
-version = "0.0.1"
+version = "0.1.0"
 source = { editable = "." }
 
 [package.dev-dependencies]
